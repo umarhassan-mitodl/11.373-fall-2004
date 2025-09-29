@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides bibliographic citations for the course readings,
   organized by session and topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -61,7 +63,7 @@ Michaels, Patrick J. "Science or Political Science?" In _Politicizing Science_. 
 
 Kennedy, Robert F., Jr. "The Junk Science of George W. Bush." _The Nation_, March 8, 2004.
 
-Union of Concerned Scientists. "Executive Summary." In {{% resource_link "269237c5-3d34-4b94-91fd-8db3b21cb1ee" "_Scientific Integrity in Policymaking_" %}}. Cambridge, MA: Union of Concerned Scientists, 2003.
+Union of Concerned Scientists. "Executive Summary." In [_Scientific Integrity in Policymaking_](http://www.ucsusa.org/our-work/center-science-and-democracy/promoting-scientific-integrity/reports-scientific-integrity.html#.VLgVlntSIa0). Cambridge, MA: Union of Concerned Scientists, 2003.
 
 _The Policy Process_
 
@@ -117,9 +119,9 @@ Blaustein, Andrew R., and David B. Wake. "The Puzzle of Declining Amphibian Popu
 
 Graham, John D., et al. _In Search of Safety_. Cambridge, MA: Harvard University Press, 1991, pp. 179-189. ISBN: 0674446364.
 
-{{% resource_link "1c5d36da-28da-457e-9ce7-930841e8b516" "![Buy at MIT Press](/images/mp_logo.gif)" %}} O'Brien, Mary. Chapters 2-4 in _Making Better Environmental Decisions_. Cambridge, MA: MIT Press, 2000, pp. 17-73. ISBN: 9780262650533. (Skim this.)
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262650533) O'Brien, Mary. Chapters 2-4 in _Making Better Environmental Decisions_. Cambridge, MA: MIT Press, 2000, pp. 17-73. ISBN: 9780262650533. (Skim this.)
 
-{{% resource_link "845e1155-a56f-43c2-bcc6-d3063994a7ad" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Miller, Clark A., and Paul N. Edwards, eds. Chapter 2 in _Changing the Atmosphere_. Cambridge, MA: MIT Press, 2001, pp. 31-65. ISBN: 9780262133876.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262133876) Miller, Clark A., and Paul N. Edwards, eds. Chapter 2 in _Changing the Atmosphere_. Cambridge, MA: MIT Press, 2001, pp. 31-65. ISBN: 9780262133876.
 
 Sarewitz, Daniel, and Roger A. Pielke, Jr. "Prediction in Science and Policy." In _Prediction_. Edited by Daniel Sarewitz, Roger A. Pielke, Jr., and Radford Byerly, Jr. Washington, DC: Island Press, 2000, pp. 11-22. ISBN: 1559637765.
 
@@ -211,7 +213,7 @@ Slovic, Paul. "Perception of Risk." _Science_ 236 (1987): 280-285.
 
 Tversky, Amos, and Daniel Kahneman. "The Framing of Decisions and the Psychology of Choice." _Science_ 211 (January 30, 1981): 453-458.
 
-{{% resource_link "a551d2a0-125c-4493-add8-7602b7928a56" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kempton, Willett, James S. Boster, and Jennifer A. Hartley. Chapter 3 in _Environmental Values in American Culture_. Cambridge, MA: MIT Press, 1996, pp. 39-62. ISBN: 9780262611237.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611237) Kempton, Willett, James S. Boster, and Jennifer A. Hartley. Chapter 3 in _Environmental Values in American Culture_. Cambridge, MA: MIT Press, 1996, pp. 39-62. ISBN: 9780262611237.
 
 
 {{< tdclose >}}
@@ -295,7 +297,7 @@ Layzer, Judith A. "Climate Change." In _The Environmental Case: Translating Valu
 
 Bierman, Frank. "Institutions for Scientific Advice: Global Environmental Assessments and Their Influence in Developing Countries." _Global Governance_ 8, no. 2 (April-June 2002): 195+.
 
-{{% resource_link "4165f33d-affb-4c4b-aa37-da91d747e939" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Eijndhoven, Josee van, William C. Clark, and Jill Jager. "The Long-Term Development of Global Environmental Risk Management: Conclusions and Implications for the Future." In _Learning to Manage Global Environmental Risks Vol. 2_. Edited by The Social Learning Group. Cambridge, MA: MIT Press, 2001, pp. 181-197. ISBN: 9780262692397.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262692397) Eijndhoven, Josee van, William C. Clark, and Jill Jager. "The Long-Term Development of Global Environmental Risk Management: Conclusions and Implications for the Future." In _Learning to Manage Global Environmental Risks Vol. 2_. Edited by The Social Learning Group. Cambridge, MA: MIT Press, 2001, pp. 181-197. ISBN: 9780262692397.
 
 
 {{< tdclose >}}

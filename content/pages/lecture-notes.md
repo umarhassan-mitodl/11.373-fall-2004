@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the lecture notes for the course, designed as questions
   on the weekly topic, to which the students must write their response papers.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
